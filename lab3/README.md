@@ -6,3 +6,10 @@ Condition for full will be top2-top1==1     and Condition for empty will be top1
 
 3.    SPAN STOCK PROBLEM:   Given a series of n daily price quotes for a stock. The span of the stock's price on a certain day is the maximum number of consecutive days up to the current day that the price of the stock has been less than or equal to its price on that day.                                                                  
 Write a program to solve SPAN STOCK PROBLEM using stack. It should take O(n) time.
+
+Write a program to implement DFT algorithm. The program should output the following.
+         a.  Order of vertices traversed  in Depth First Search.
+         b.  To check whether graph has a cycle.
+         c.   Finishing time of the vertices of the graph.   
+   
+
